@@ -20,6 +20,9 @@ Analyze Your's paytm wallet using Python Pandas Library</h1>
 
 ![alt text](https://github.com/imsaiful/analyze-paytm-wallet/blob/master/image/summary.png)
 
+![alt text](https://github.com/imsaiful/analyze-paytm-wallet/blob/master/image/paytmgraph.png)
+
+
 <h2><b>How to run this script</b></h1>
 
 <h4>You can run this script in pycharm , sublime text , notepad++ etc</h4>
